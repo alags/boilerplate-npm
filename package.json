@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"alags",
 	"description": "Module 2 of learning about npms",
+	"keywords": ["freecodecamp", "mememe", "hello! world"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
