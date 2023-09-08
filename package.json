@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"alags",
+	"description": "Module 2 of learning about npms",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
